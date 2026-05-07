@@ -61,6 +61,5 @@ Bash
 python model.py
 💡 Conclusion
 The Random Forest Regressor successfully decoded the relationship between restaurant features and income. The analysis reveals that factors like Average Meal Price and Seating Capacity are the strongest predictors of annual revenue.
-   git clone [https://github.com/DhanaJayan1918/Model-Prediction-Task.git](https://github.com/DhanaJayan1918/Model-Prediction-Task.git)
-
-   Created by DhanaJayan
+   git clone [https://github.com/ABIVARMAN1/Thiranex-task2/tree/main]
+   Created by ABIVARMAN
